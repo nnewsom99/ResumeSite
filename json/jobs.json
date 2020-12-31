@@ -1,0 +1,16 @@
+{
+  "employment history": [
+    {
+      "id": 0,
+      "title": "Server",
+      "company": "Newks",
+      "location": "Jax",
+      "industry": "Food",
+      "startdate": "January 2016",
+      "enddate": "August 2018",
+      "currentlyworking": false,
+      "description": ["cook food", "cashier", "serve tables"]
+
+    }
+  ]
+}
